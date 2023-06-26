@@ -17,3 +17,5 @@ General overview of the steps to deploy a static website to S3 using GitHub Acti
 5. Is this working? pushing to main.
 
 6. New test
+
+7. Expecting Apache Airflow to deploy GH pages
